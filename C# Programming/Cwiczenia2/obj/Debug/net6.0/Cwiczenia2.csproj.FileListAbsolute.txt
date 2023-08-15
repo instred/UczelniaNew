@@ -1,0 +1,30 @@
+C:\Users\jakub\source\repos\Cwiczenia2\bin\Debug\net6.0\Cwiczenia2.exe
+C:\Users\jakub\source\repos\Cwiczenia2\bin\Debug\net6.0\Cwiczenia2.deps.json
+C:\Users\jakub\source\repos\Cwiczenia2\bin\Debug\net6.0\Cwiczenia2.runtimeconfig.json
+C:\Users\jakub\source\repos\Cwiczenia2\bin\Debug\net6.0\Cwiczenia2.dll
+C:\Users\jakub\source\repos\Cwiczenia2\bin\Debug\net6.0\Cwiczenia2.pdb
+C:\Users\jakub\source\repos\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.AssemblyInfo.cs
+C:\Users\jakub\source\repos\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.dll
+C:\Users\jakub\source\repos\Cwiczenia2\obj\Debug\net6.0\refint\Cwiczenia2.dll
+C:\Users\jakub\source\repos\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.pdb
+C:\Users\jakub\source\repos\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.genruntimeconfig.cache
+C:\Users\jakub\source\repos\Cwiczenia2\obj\Debug\net6.0\ref\Cwiczenia2.dll
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.csproj.AssemblyReference.cache
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.AssemblyInfoInputs.cache
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.AssemblyInfo.cs
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.dll
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\obj\Debug\net6.0\refint\Cwiczenia2.dll
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.pdb
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\bin\Debug\net6.0\Cwiczenia2.exe
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\bin\Debug\net6.0\Cwiczenia2.deps.json
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\bin\Debug\net6.0\Cwiczenia2.runtimeconfig.json
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\bin\Debug\net6.0\Cwiczenia2.dll
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\bin\Debug\net6.0\Cwiczenia2.pdb
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\obj\Debug\net6.0\Cwiczenia2.genruntimeconfig.cache
+C:\Users\jakub\source\Programowanie w C#\Cwiczenia2\obj\Debug\net6.0\ref\Cwiczenia2.dll
