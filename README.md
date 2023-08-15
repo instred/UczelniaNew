@@ -1,5 +1,5 @@
 # UczelniaNew
 
-Moje poczynania na WSB
+My progress during study on WSB University in Wroclaw.
 
-Będę tutaj zapisywał wszystkie moje programy na lekcje, które odbyłem na WSB.
+I'll be posting most of my materials that I'm using, as well as whole projects to finish a class.
