@@ -1,62 +1,0 @@
-[your_company]
-YOUR COMPANY
-1234 Your Street
-City, California
-90210
-United States
-1-888-123-4567
-
-[billed_to]
-Your Client
-1234 Clients Street
-City, California
-90210
-United States
-1-888-123-8910
-
-[dates_and_data]
-Datelssued — InvoiceNumber Amount Due
-26/3/2021 INV-10012 $1,699.48
-Due Date
-25/4/2021
-
-[items_list]
- 
-DESCRIPTION
-Services
-Cost of various services.
-Consulting
-Consultant for your business.
-Materials
-Cost of materials and su
- 
-to complete job.
-$55.00
-+Tax
-$75.00
-+Tax
-$1239
-+Tax
-qv AMOUNT
-10 $550.00
-15 $1,125.00
-1 $123.39
-
-[costs]
-Subtotal
-Discount
-Tax
-Total
-Deposit Requested
-Deposit Due
-$1,798.39
-$179.84
-+$80.93
-$1,699.48
-$169.95
-$169.95
-
-[additional]
-Notes
-Thank you for your business!
-
