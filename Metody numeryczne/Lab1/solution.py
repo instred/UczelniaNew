@@ -175,32 +175,14 @@ numbers.append(read_file("dane0.txt"))
 for number_set in numbers:
     number_set.pop()
     number_set = list(map(int, number_set))
-    # print(min_max(number_set))
+    print(min_max(number_set))
     # (bubble(number_set))
-    # (select(number_set))
+    (select(number_set))
     # (insert(number_set))
     # (merge_sort(number_set))
     # (count_sort(number_set))
 
-def bub(arr):
-    i = 0
-    while i < len(arr):
-        j = 0
-        while j < len(arr) - 1 - i:
-            if arr[j] > arr[j+1]:
-                arr[j], arr[j+1] = arr[j+1], arr[j]
-            j += 1
-        i += 1
-
-    return arr
 
 
-
-
-
-test = [7,4,5,3,9,1,5,4,3,4,-20]
-print(test)
-print(bub(test))
-# print(test)
 
 
